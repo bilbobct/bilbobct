@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilbobct
+- 👋 Hi, I’m @emagioli
 - 👀 I’m interested in mathematics, videogames, music, learning & teaching
 - 🌱 I’m currently learning C# and Japanese 
 - 💞️ I’m looking to collaborate on ...
