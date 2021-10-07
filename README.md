@@ -2,7 +2,7 @@
 
 - 👋 I’m @emagioli, it's nice to see you here!
 - 👀 I’m interested in Mathematics, Videogames, Listening and playing music, Learning & Teaching
-- 🌱 I’m currently learning C#, Japanese and participating of Everis New Talents .NET Bootcamp! 
+- 🌱 I’m currently learning C#, Javascript, HTML, CSS and Japanese!
 - 📫 Contact me: enzomagioli.pro@gmail.com
 <!---
  - 💞️ I’m looking to collaborate on ... 
