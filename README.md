@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Mathematics, Videogames, Playing instruments, Learning & Teaching!
 - 🌱 I’m currently learning C#, Javascript, HTML, CSS and Japanese!
-- 😄 The pronouns are He/Him/His 
+- 😄 The pronouns are He/Him
 ##
 
 <div align="center">
