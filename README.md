@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/emagioli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emagioli&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagioli&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emagioli&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagioli&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  
  
@@ -27,7 +27,7 @@
 
    
    
-   <img align="right" alt="drawing" height="150" style="border-radius:50px;" src="Assets/noglasses.png" />
+   <img align="right" alt="drawing" height="150" style="border-radius:30px;" src="Assets/noglasses.png" />
   
   
 </div>
