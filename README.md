@@ -1,15 +1,15 @@
 # Welcome! I’m Enzo Magioli, it's nice to see you here!
 
+
 - 👀 I’m interested in Mathematics, Videogames, Playing instruments, Learning & Teaching!
 - 🌱 I’m currently learning C#, Javascript, HTML, CSS and Japanese!
-- 😄 The pronouns are He/Him/His
-
+- 😄 The pronouns are He/Him/His 
 ##
 
 <div align="center">
   <a href="https://github.com/emagioli">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emagioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagioli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emagioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagioli&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  
