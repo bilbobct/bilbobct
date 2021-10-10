@@ -20,17 +20,11 @@
   <img align="center" alt="Enzo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Enzo-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Enzo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="right" height="200" alt="codingGif" style="border-radius:50px;" src="Assets/retrocoding.gif" />
+  <img align="right" alt="drawing" height="150" style="border-radius:50px;" src="Assets/noglasses.png" />
   
 </div>
 
  ##
- 
-<div>
- 
- 
- 
- </div>
  
  <div> 
   <a href = "mailto:enzomagioli.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
