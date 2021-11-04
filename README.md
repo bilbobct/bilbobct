@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Mathematics, Videogames, Playing instruments, Learning & Teaching!
-- 🌱 I’m currently learning C#, Javascript, HTML, CSS and Japanese!
+- 🌱 I’m currently programming in C#, Javascript, HTML, CSS and learning Japanese!
 - 😄 The pronouns are He/Him
 ##
 
