@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Mathematics, Videogames, Playing instruments, Learning & Teaching!
-- 🌱 I’m currently programming in C#, Javascript, HTML, CSS and learning Japanese!
+- 🌱 I’m currently programming in C#, Javascript, HTML, CSS and learning Flutter and Japanese!
 - 😄 The pronouns are He/Him
 ##
 
@@ -23,6 +23,13 @@
   <img align="center" alt="Enzo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Enzo-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Enzo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Enzo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+   <img align="center" alt="Enzo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+   <img align="center" alt="Enzo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+   <img align="center" alt="Enzo-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+   
+   
+
 
 
    
