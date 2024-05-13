@@ -1,31 +1,31 @@
 # Welcome! I’m Enzo Magioli, it's nice to see you here!
 
 
-- 👀 I’m interested in Mathematics, Videogames, Playing instruments, Learning & Teaching!
-- 🌱 I’m currently programming in C#, Javascript, HTML, CSS and learning Flutter and Japanese!
+- 👀 I'm graduated in Mathematics and a Data Science undergrad.
+- 🎮 Videogames, playing instruments, learning & teaching are just some of my favorite hobbies!
+- 🌱 Currently programming in Python, but most of my work in Data Analysis is done with Power BI, SQL and other Data related tools.
 - 😄 The pronouns are He/Him
 ##
 
+<!--
 <div align="center">
   <a href="https://github.com/emagioli">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emagioli&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagioli&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+ -->
  
  
- 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block"><be>
   
-  <img align="center" alt="Enzo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Enzo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Enzo-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Enzo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Enzo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Enzo-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Enzo-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="Enzo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-   <img align="center" alt="Enzo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
-   <img align="center" alt="Enzo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <!--<img align="center" alt="Enzo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />-->
+  <img align="center" alt="Enzo-Python" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
+  <img align="center" alt="Enzo-Pandas" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+  <img align="center" alt="Enzo-Seaborn" width="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+  <img align="center" alt="Enzo-PowerBI" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img align="center" alt="Enzo-Excel" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+  <img align="center" alt="Enzo-Looker" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" />
+
    
    
 
